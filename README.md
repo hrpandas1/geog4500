@@ -1,2 +1,10 @@
-# geog4500
-Class GEOG4500
+# GEOG 4500 - Python Programming for GIS
+
+**Student**: Hannah Reeves  
+**Semester**: Spring 2026  
+**University**: Kennesaw State University
+
+## Repository Structure
+
+- `lectures/` — In-class notebooks and examples
+- `data/` — Datasets used in assignments
